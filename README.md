@@ -1,2 +1,2 @@
 # m2zero
-Banana Pi M2 Zero Ubuntu 16.04 (build from scratch with debootstrap)
+Ubuntu 16.04 Xenial (build from scratch with debootstrap) for Banana Pi M2 Zero 
